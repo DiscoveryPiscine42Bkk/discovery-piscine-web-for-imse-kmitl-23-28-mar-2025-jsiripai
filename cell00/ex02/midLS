@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 02: midLS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .important {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercise 02: midLS</h1>
+    <table>
+        <tr>
+            <th colspan="2">Exercise 02</th>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>midLS</strong></td>
+        </tr>
+        <tr>
+            <td>Turn-in directory:</td>
+            <td><em>ex02/</em></td>
+        </tr>
+        <tr>
+            <td>Files to turn in:</td>
+            <td><strong>midLS</strong></td>
+        </tr>
+        <tr>
+            <td>Allowed functions:</td>
+            <td class="important">None</td>
+        </tr>
+    </table>
+    <p>&#8226; In a <strong>midLS</strong> file, place the command line that will list all files and directories in your current directory (except for hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma.</p>
+</body>
+</html>
